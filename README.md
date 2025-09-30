@@ -11,7 +11,7 @@ This project demonstrates an **end-to-end agentic system** with:
 - **Dockerized setup** with `docker-compose`.  
 
 ### DEMO VIDEO: 
-https://www.loom.com/share/71e57b50d99a473cbec10ff86ebd8bf2?sid=29d0cac6-9803-4ba6-a8b3-7d769c75bcd6
+- https://www.loom.com/share/71e57b50d99a473cbec10ff86ebd8bf2?sid=29d0cac6-9803-4ba6-a8b3-7d769c75bcd6
 ---
 
 ## ✨ Features  
