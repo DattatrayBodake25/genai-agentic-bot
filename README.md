@@ -1,4 +1,4 @@
-# 🤖 Mini Agentic Bot  
+# 🤖 Mini agentic bot (LangGraph + LangChain)
 
 A **mini agentic bot** built with **LangGraph** + **LangChain**, orchestrated with **FastAPI**, and deployed using **Docker + Streamlit UI**.  
 
