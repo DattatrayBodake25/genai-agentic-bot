@@ -182,30 +182,25 @@ python test_connections.py
 
 ## 🐳 Run with Prebuilt Docker Images
 Instead of building locally, you can pull the prebuilt images from Docker Hub:
-
-# UI (Streamlit)
 ```bash
+# UI (Streamlit)
 docker pull dattatraybodake/genai_agent_bot-ui
 ```
-
+```bash
 # API (FastAPI)
-```
 docker pull dattatraybodake/genai_agent_bot-api
 ```
 Then run them with:
-# Run API
 ```bash
+# Run API
 docker run -d -p 8000:8000 --env-file .env dattatraybodake/genai_agent_bot-api
 ```
-
-# Run UI
 ```bash
+# Run UI
 docker run -d -p 8501:8501 --env-file .env dattatraybodake/genai_agent_bot-ui
 ``` 
-API Docs → http://localhost:8000/docs
-
-UI → http://localhost:8501
-
+- API Docs → http://localhost:8000/docs
+- UI → http://localhost:8501
 ---
 
 ## 🐳 Deployment
